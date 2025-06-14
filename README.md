@@ -1,21 +1,21 @@
-# Faculty for Undergraduate Neuroscience workshop (2023)
+# Open Science in Undergraduate Education Workshop (2025)
 
-Tutorial notebooks and slides for the [FUN 2023](https://www.funfaculty.org/conference_2023_wwu) workshop "Integrating programming into neuroscience courses" *and* the Society for Neuroscience workshop "Teaching Neuroscience: New Approaches to Electrophysiology Labs."
+Tutorial notebooks and slides for the [Allen Institute Open Science in Undergraduate Education Workshop](https://www.funfaculty.org/conference_2023_wwu) workshop "Integrating programming into biology and neuroscience courses."
 
 ### There are three different ways you can interact with these materials from your browser:
 
 1. We will predominantly be working on Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ajuavinett/FUN_2023/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ajuavinett/Allen2025/)
 
 2. But Binder is another option:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/FUN_2023.git/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ajuavinett/Allen2025.git/)
 
 3. And a third option (necessary for working with NWB datasets) is cloning this repo in the [Dandihub](http://hub.dandiarchive.org).
 
 ### There are several ways to implement these notebooks in your class:
 - Run notebooks via Binder or Colab, as demonstrated above
 - Set up a [JupyterHub](https://jupyterhub.readthedocs.io/en/stable/installation-guide-hard.html) for your course or university (e.g., the [UCSD DataHub](http://datahub.ucsd.edu))
-- Ask students to download the [Anaconda Distribution](https://www.anaconda.com/products/individual) of Python, which includes Jupyter Notebook, many useful packages and more, to run these notebooks locally
+- Ask students to download the [VS Code](https://code.visualstudio.com/download) or the [Anaconda Distribution](https://www.anaconda.com/products/individual) of Python, which includes Jupyter Notebook, many useful packages and more, to run these notebooks locally
 
 ### Teaching Resources related to this workshop:
 - [Various Lesson Plans with the Allen Institute for Brain Science resources](https://sites.google.com/ucsd.edu/neuroedu)
