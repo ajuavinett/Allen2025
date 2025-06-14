@@ -25,7 +25,7 @@ Tutorial notebooks and slides for the [Allen Institute Open Science in Undergrad
 
 ### Materials for coding Courses
 - [Introduction to Python for Biologists Course Materials](https://github.com/BILD62/)
-- [Neural Data Science Course Materials](https://github.com/BIPN162/Materials)
+- [Neural Data Science Course Materials](https://github.com/BIPN162/)
 
 ### Questions? Get in touch.
 Email ajuavine[at]ucsd.edu
