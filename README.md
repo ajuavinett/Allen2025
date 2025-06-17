@@ -7,8 +7,7 @@ Tutorial notebooks and slides for the [Allen Institute Open Science in Undergrad
 1. We will predominantly be working on Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ajuavinett/Allen2025/)
 
-2. But Binder is another option:
-[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/ajuavinett/Allen2025.git/](https://mybinder.org/v2/gh/ajuavinett/Allen2025/HEAD))
+2. But Binder is another option: [Binder](https://mybinder.org/v2/gh/ajuavinett/Allen2025/HEAD)
 
 3. And a third option (necessary for working with NWB datasets) is cloning this repo in the [Dandihub](http://hub.dandiarchive.org).
 
